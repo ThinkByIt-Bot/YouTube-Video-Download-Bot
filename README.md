@@ -2,18 +2,20 @@
 ###### This A simple YouTube Video Download Telegram Bot
 
 
-![logo](https://graph.org/file/754b7faa1308a13fc917f.jpg)
+![logo](https://te.legra.ph/file/a016d720adf45836a71db.jpg)
 
 
 # How To Deploy
 
-<b><details><summary>Tap To watch</summary>
+<b><details><summary>Tap To Deploy</summary>
 
-### Heroku Video
-<a href="https://youtu.be/ms_ApEgb0SA?feature=shared"><img alt="how to create" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
+### Heroku
+<a href="https://heroku.com/deploy?template=https://github.com/ThinkByIt-Bot/YouTube-Video-Download-Bot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 
-### Render Video
-<a href="https://youtu.be/A4l6LSPi-lM?feature=shared"><img alt="how to create" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+### Railway
+Adding Soon...
 
 </b>
 </details>
@@ -38,8 +40,5 @@ about - Something About Me 😌
 ### My Community Details
 
 
-- YouTube Channel : [Telegram Bots 🤖](https://youtube.com/@NTBOT?feature=shared)
-- Telegram Channel : [NT Bots ❤️‍🩹](https://t.me/NT_BOT_CHANNEL)
-- Telegram Group : [NT Bots Support 🎗️](https://t.me/NT_BOTS_SUPPORT)
-- URL Uploader Bot : [Uploader Bot 🚀](https://t.me/UploadLinkToFileBot)
-- My Tg Id : [Lisa 👑](https://t.me/LISA_FAN_LK)
+- YouTube Channel : [Telegram Bots 🤖](https://www.youtube.com/@doraemonbots)
+- Telegram Channel : [Doraemon Bots ❤️‍🩹](https://t.me/doraemonbots)
